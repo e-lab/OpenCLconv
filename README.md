@@ -50,3 +50,8 @@ https://developer.qualcomm.com/mobile-development/maximize-hardware/mobile-gamin
 In this case you need to copy to the device all the libraries present int Qualcomm-libs and point LD_LIBRARY_PATH to them.
 
 Don't read the instructions given in the websites given in the links above, it's not necessary to root the device, unlock the bootloader or anything like this, just copy the files to /data/data/com.icecoldapps.sshserver, where you have access with SFTP, but enter directly in that directory, SFTP cannot list the /data directory, nor ssh can.
+
+
+### License
+
+MIT
